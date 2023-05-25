@@ -1,0 +1,30 @@
+Stock Final Report
+Update Time: 1685009312
+-------------------
+Product Name: shirt
+Quantity: 10
+Index: 5
+Product Name: pant
+Quantity: 15
+Index: 10
+Product Name: shoe
+Quantity: 100
+Index: 22
+Product Name: tshirt
+Quantity: 50
+Index: 15
+Stock Final Report
+Update Time: 1685009312
+-------------------
+Product Name: shirt
+Quantity: 20
+Index: 10
+Product Name: pant
+Quantity: 15
+Index: 10
+Product Name: shoe
+Quantity: 100
+Index: 22
+Product Name: tshirt
+Quantity: 50
+Index: 15

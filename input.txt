@@ -1,0 +1,4 @@
+shirt 10 5
+pant 15 10
+shoe 100 22
+tshirt 50 15
